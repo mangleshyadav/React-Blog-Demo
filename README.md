@@ -1,4 +1,4 @@
-# This Demo is using React 16v to show List of Blogs, Authors and comments - by Manglesh Yadav
+# This Demo is developed using Reactjs to show List of Blogs, Authors and comments - by Manglesh Yadav
 ## Following libraries and features are used:
 
 * Bootstrap 4.
