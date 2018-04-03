@@ -6,10 +6,10 @@
 * React-router": "^4.2.0",
 * Used .JSX
 * List Blogs, Comments, Authors Details.
-* Root and Child Routes
 * SCSS, css
 * Navbar
-* Offcanvas
+* Navigation
+* Offcanvas( sidebar )
 * Bootstrap Pagination.
 
 ## Backend Rest Api References:
