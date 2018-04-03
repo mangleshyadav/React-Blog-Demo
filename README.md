@@ -1,4 +1,4 @@
-# Blog Demo using Angular 4+ with View List Blogs, List Authors, View Blog Details - by Manglesh Yadav
+# This Demo is using React 16v to show List of Blogs, Authors and comments - by Manglesh Yadav
 ## Following libraries and features are used:
 
 * Bootstrap 4.
@@ -20,7 +20,6 @@ https://jsonplaceholder.typicode.com/
 `GET	/posts/1`
 `GET	/posts/1/comments`
 `GET	/comments?postId=1`
-`GET	/posts?userId=1`
 `POST	/posts`
 
 
